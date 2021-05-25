@@ -1,4 +1,4 @@
-# Phillips Somneo
+# Philips Somneo
 This is a work in progress...
 
 This library can do the following things:
